@@ -1,0 +1,463 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size:16 px;
+}
+.intro__sec1-logoname {
+    font-size: 35px;
+    font-weight: 800;
+
+}
+.intro__sec1-head {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 59px;
+}
+.intro__sec1-par {
+    font-size: 16px;
+    font-weight: 400;
+}
+.header__logoname{
+    font-size: 22px;
+    font-weight: 800;
+}
+.header__logo {
+    font-size: 21px;
+    font-weight: 800;
+    color: #FFFFFF;
+    padding: 10px;
+    background: linear-gradient(134.6deg, #D140F8 -3.11%, #788CE9 33.98%, #37C2DE 66.35%, #1ECCAE 98.49%); 
+    border-radius: 15px;
+    text-decoration: none;
+}
+.header__title {
+    font-size: 22px;
+    font-weight: 800;
+    color: #222222;
+}
+/* FEATURES */
+.features__inner-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFF;
+}
+.features__inner-subtitle {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #FFFF;
+}
+
+/* FEATURES BLOCKS */
+/* Block1 */
+.features__block-title {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+/* font-size: 18px; */
+line-height: 30px;
+text-align: center;
+margin: 0;
+}
+.features__block-text {
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+color: #222222;
+margin: 0;
+}
+
+
+/* Stats */
+.stats__item-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 96px;
+    color: #FFFFFF;
+}
+
+
+.stats__item-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+/* TECHNOLOGY */
+.technology__sec1-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+}
+.technology__sec1-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+}
+.technology__sec1-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#666666;
+}
+
+
+
+
+/* SPEED&SECURE */
+.speed__sec2-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+}
+.speed__sec2-title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+}
+.speed_sec2-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color:#666666;
+}
+/* DARK */
+.dark__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.dark__subtitle1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #FFFFFF;
+    text-align: center;
+}
+.dark__subtitle2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    text-align: center;
+    max-width: 578px;
+}
+.dark-text {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+/* PRICING */
+.pricing__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color:#222222;
+}
+.pricing__subtitle1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color:#222222;
+    text-align: center;
+}
+.pricing__subtitle2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color:#666666;
+    text-align: center;   
+}
+            /*Pricing-blocks  */
+.pricing__blocks-bl1-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #0278ED;
+}
+.pricing__blocks-bl1-price {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 108px;
+    line-height: 124px;
+    text-align: center;
+    letter-spacing: 8px;
+    color: #0278ED;
+}
+.pricing__blocks-bl1-period,
+.pricing__blocks-bl2-period,
+.pricing__blocks-bl3-period {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+}
+.pricing__blocks-bl1-button,
+.pricing__blocks-bl2-button,
+.pricing__blocks-bl3-button {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.pricing__blocks-bl1-button:hover,
+.pricing__blocks-bl2-button:hover,
+.pricing__blocks-bl3-button:hover {
+    background: white;
+    color: black;
+    border: solid black 1px;
+    transition: 0.5s;
+    cursor: pointer;
+    text-decoration:underline;
+}
+.pricing__blocks-bl2-price {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 108px;
+    line-height: 124px;
+    text-align: center;
+    letter-spacing: 8px;
+    color: #FF5437;
+}
+.pricing__blocks-bl2-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FF5437;
+}
+.pricing__blocks-bl3-price {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 108px;
+    line-height: 124px;
+    text-align: center;
+    letter-spacing: 8px;
+    color: #FF9209
+}
+.pricing__blocks-bl3-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #FF9209
+}
+/* TESTIMONIALS */
+.testimonials__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+}
+.testimonials__subtitle1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: center;
+    color: #222222;
+}
+.testimonials__subtitle2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #666666;  
+}
+
+/* Testimonials bloks */
+.customer__name,
+.customer__name3,
+.customer__name2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #222222;
+}
+.customer__company,
+.customer__company3,
+.customer__company2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #222222;
+}
+.customer__feedback {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+}
+/* DOWNLOAD */
+.download__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #222222;
+}
+.download__subtitle1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: center;
+    color: #222222;
+}
+.download__subtitle2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #666666;
+}
+
+
+/* FAQ */
+
+.faq-sec1-h2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36px;
+    color: #222222;
+    text-transform: uppercase;
+}
+.faq-h3,
+.faq-h3-sec2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    color: #222222;
+}
+
+/* Contacts */
+.cont__sec1-logoname {
+    font-size: 35px;
+    font-weight: 800;
+}
+.cont-licence {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.cont-licence span:nth-child(1){
+    color: #B1B1B1;
+}
+.cont-licence span:nth-child(2){
+    color: #666666;
+}.cont-licence span:nth-child(3){
+    color: #B1B1B1;
+}
+.cont-licence span:nth-child(4){
+    color: #666666;;
+}
+
+
